@@ -1,0 +1,66 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 19:32:02 at https://www.countrybank.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.countrybank.com/ -O1 "C:\Users\dell\Desktop\barath\finance11" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:33:09	Error: 	"Method Not Allowed" (405) at link https://www.countrybank.com/xmlrpc.php (from https://www.countrybank.com/)
+19:33:10	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.countrybank.com/)
+19:34:16	Error: 	"Not Found" (404) at link https://www.countrybank.com/wp-content/themes/CB-2022/assets/search/ (from https://www.countrybank.com/)
+19:36:11	Error: 	Exit requested by shell or user
+19:36:11	Warning: 	File not added due to mirror cancel: https://www.countrybank.com/wp-json/wp/v2/pages/171
+19:36:19	Error: 	"Error when decompressing" (-1) at link https://www.countrybank.com/wp-content/themes/CB-2022/assets (from https://www.countrybank.com/)
+19:36:19	Error: 	"Error when decompressing" (-1) at link https://www.countrybank.com/wp-content/themes/CB-2022 (from https://www.countrybank.com/)
+19:36:21	Warning: 	Moved Permanently for https://www.countrybank.com/?p=584
+19:36:21	Warning: 	File has moved from https://www.countrybank.com/?p=584 to https://www.countrybank.com/exit/
+19:36:21	Warning: 	Moved Permanently for https://www.countrybank.com/?p=1164
+19:36:21	Warning: 	File has moved from https://www.countrybank.com/?p=1164 to https://www.countrybank.com/resources/personal-resources/financial-education/
+19:36:21	Warning: 	Moved Permanently for https://www.countrybank.com/?p=194
+19:36:21	Warning: 	File has moved from https://www.countrybank.com/?p=194 to https://www.countrybank.com/customer-service/locations-atms/
+19:36:21	Warning: 	Moved Permanently for https://www.countrybank.com/?p=193
+19:36:21	Warning: 	File has moved from https://www.countrybank.com/?p=193 to https://www.countrybank.com/customer-service/
+19:36:22	Warning: 	Moved Permanently for https://www.countrybank.com/?p=196
+19:36:22	Warning: 	File has moved from https://www.countrybank.com/?p=196 to https://www.countrybank.com/rates/
+19:36:23	Warning: 	Moved Permanently for https://www.countrybank.com/?p=12440
+19:36:23	Warning: 	File has moved from https://www.countrybank.com/?p=12440 to https://www.countrybank.com/joinourteam/
+19:36:24	Warning: 	Moved Permanently for https://www.countrybank.com/?p=136
+19:36:24	Warning: 	File has moved from https://www.countrybank.com/?p=136 to https://www.countrybank.com/personal/
+19:36:24	Warning: 	Moved Permanently for https://www.countrybank.com/?p=149
+19:36:24	Warning: 	File has moved from https://www.countrybank.com/?p=149 to https://www.countrybank.com/personal/checking-accounts/
+19:36:24	Warning: 	Moved Permanently for https://www.countrybank.com/?p=15298
+19:36:24	Warning: 	File has moved from https://www.countrybank.com/?p=15298 to https://www.countrybank.com/personal/checking-accounts/kasasa-rewards-checking/
+19:36:24	Warning: 	Moved Permanently for https://www.countrybank.com/?p=5009
+19:36:24	Warning: 	File has moved from https://www.countrybank.com/?p=5009 to https://www.countrybank.com/personal/checking-accounts/kasasa-protect/
+19:36:25	Warning: 	Moved Permanently for https://www.countrybank.com/?p=8871
+19:36:25	Warning: 	File has moved from https://www.countrybank.com/?p=8871 to https://www.countrybank.com/student-checking/
+19:36:25	Warning: 	Moved Permanently for https://www.countrybank.com/?p=150
+19:36:25	Warning: 	File has moved from https://www.countrybank.com/?p=150 to https://www.countrybank.com/personal/youth-accounts/
+19:36:26	Warning: 	Moved Permanently for https://www.countrybank.com/customer-service/rates/
+19:36:26	Warning: 	File has moved from https://www.countrybank.com/customer-service/rates/ to https://www.countrybank.com/rates/
+19:36:26	Warning: 	Moved Permanently for https://www.countrybank.com/?p=160
+19:36:26	Warning: 	File has moved from https://www.countrybank.com/?p=160 to https://www.countrybank.com/personal/eservices/
+19:36:26	Warning: 	Moved Permanently for https://www.countrybank.com/?p=13606
+19:36:26	Warning: 	File has moved from https://www.countrybank.com/?p=13606 to https://www.countrybank.com/chipcard/
+19:36:26	Warning: 	Moved Permanently for https://www.countrybank.com/?p=161
+19:36:26	Warning: 	File has moved from https://www.countrybank.com/?p=161 to https://www.countrybank.com/personal/mobile-app/
+19:36:27	Warning: 	Moved Permanently for https://www.countrybank.com/?p=159
+19:36:27	Warning: 	File has moved from https://www.countrybank.com/?p=159 to https://www.countrybank.com/personal/savings-cds/
+19:36:27	Warning: 	Moved Permanently for https://www.countrybank.com/?p=4958
+19:36:27	Warning: 	File has moved from https://www.countrybank.com/?p=4958 to https://www.countrybank.com/personal/savings-cds/kasasa-saver/
+19:36:27	Warning: 	Moved Permanently for https://www.countrybank.com/?p=165
+19:36:27	Warning: 	File has moved from https://www.countrybank.com/?p=165 to https://www.countrybank.com/personal/consumer-loans-2/
+19:36:27	Warning: 	Moved Permanently for https://www.countrybank.com/?p=162
+19:36:27	Warning: 	File has moved from https://www.countrybank.com/?p=162 to https://www.countrybank.com/personal/retirement-accounts/
+19:36:27	Warning: 	Moved Permanently for https://www.countrybank.com/?p=13203
+19:36:27	Warning: 	File has moved from https://www.countrybank.com/?p=13203 to https://www.countrybank.com/personal/mortgages/
+19:36:28	Warning: 	Moved Permanently for https://www.countrybank.com/?p=1846
+19:36:28	Warning: 	File has moved from https://www.countrybank.com/?p=1846 to https://www.countrybank.com/personal/loan-professionals/
+19:36:30	Warning: 	Moved Permanently for https://www.countrybank.com/?p=18860
+19:36:30	Warning: 	File has moved from https://www.countrybank.com/?p=18860 to https://www.countrybank.com/no-down-payment-first-time-homebuyer-program/
+19:36:30	Warning: 	Moved Permanently for https://www.countrybank.com/?p=15915
+19:36:30	Warning: 	File has moved from https://www.countrybank.com/?p=15915 to https://www.countrybank.com/personal/consumer-loans/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 28 seconds : 395 links scanned, 365 files written (38002873 bytes overall) [31685256 bytes received at 118228 bytes/sec], 8294795 bytes transferred using HTTP compression in 179 files, ratio 19%, 33.0 requests per connection
+(6 errors, 49 warnings, 0 messages)
